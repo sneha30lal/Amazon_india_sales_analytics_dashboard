@@ -2,7 +2,6 @@
 
 A Power BI dashboard designed to analyze Amazon India sales performance, product trends, customer behavior, and demand patterns. This project transforms transaction-level sales data into interactive business insights using Power BI, DAX, and data visualization.
 
----
 
 ## 📌 Project Overview
 
@@ -16,7 +15,6 @@ It is organized into three analytical pages:
 - **Product & Sales Analysis** — Product and brand performance
 - **Customer & Demand Insights** — Customer behavior and demand patterns
 
----
 
 ## 🎯 Project Objective
 
@@ -34,7 +32,6 @@ The dashboard focuses on:
 - Understanding customer and product ratings
 - Analyzing delivered, returned, and cancelled orders
 
----
 
 ## 🛠️ Technologies Used
 
@@ -44,7 +41,6 @@ The dashboard focuses on:
 - **Excel / CSV** — Source transaction data
 - **GitHub** — Project documentation and version control
 
----
 
 ## 📈 Dashboard Features
 
@@ -65,7 +61,6 @@ Provides a high-level view of Amazon India sales performance.
 - Sales by Subcategory
 - Top 5 States by Sales
 
----
 
 ### 📦 Product & Sales Analysis
 
@@ -84,7 +79,6 @@ Analyzes product and brand performance along with discounts and ratings.
 - Units Sold by Subcategory
 - Top Products by Sales and Performance
 
----
 
 ### 👥 Customer & Demand Insights
 
@@ -102,7 +96,6 @@ Focuses on customer behavior, demand patterns, Prime membership, and order statu
 - Prime vs Non-Prime Sales
 - Order Status by Subcategory
 
----
 
 ## 🖼️ Dashboard Preview
 
@@ -116,9 +109,8 @@ Focuses on customer behavior, demand patterns, Prime membership, and order statu
 
 ### Customer & Demand Insights
 
-![Customer & Demand Insights](dashboard/Customers.png)
+![Customer & Demand Insights](dashboard/Customer.png)
 
----
 
 ## 💡 Key Insights
 
@@ -130,7 +122,6 @@ Focuses on customer behavior, demand patterns, Prime membership, and order statu
 - The dashboard provides a clear view of **customer spending tiers, order outcomes, and demand patterns**.
 - The **Sales vs Discount** analysis helps explore the relationship between discount levels and sales performance.
 
----
 
 ## 🎛️ Interactive Dashboard
 
@@ -145,7 +136,6 @@ The dashboard allows users to dynamically explore the data using interactive fil
 
 Users can combine multiple filters to analyze specific business segments and compare their performance.
 
----
 
 ## 📐 DAX & Data Analysis
 
@@ -164,7 +154,6 @@ DAX was used to create dynamic measures for important business metrics such as:
 
 The measures dynamically respond to the filters applied within the dashboard.
 
----
 
 ## 🗂️ Project Structure
 
@@ -177,3 +166,4 @@ Amazon_india_sales_analytics_dashboard/
 │   └── Customers.png
 │
 └── README.md<img width="1321" height="830" alt="image" src="https://github.com/user-attachments/assets/00ed5411-1534-4ace-9045-10a36ba3505e" />
+
